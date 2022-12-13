@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+table tr th,
+table tr td{
+
+    border: 2px solid black;
+    background-color: rgb(241, 145, 110);
+}
+
+table tr th{
+
+     border: 3px solid;
+
+    background-color:aqua;
+    color: black;
+}
+
+caption{
+
+    color: white;
+    background-color: black;
+}
+
+.blanca{
+    color: red;
+
+
+}
